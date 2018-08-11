@@ -1,1 +1,7 @@
 # noah
+
+## An assessment of the development of plant communities within restored upland hay meadows in the Forest of Bowland and the Yorkshire Dales 
+
+For each restoration year the mean species richness and diversity. The Sorenson index of similarity to assess the similarity between plant communities in restored sites with those of donors. ANOVA2-way to test for significant differences in species richness, diversity and abundance across the seven different years of restoration. Generalised linear mixed models (GLMMs) to investigate the effect of time since restoration on plant species richness, diversity and abundance in each restored meadow and nonmetric multidimensional scaling (NMDS) to show differences in plant community composition between years. Presence-absence analysis of both agricultural and specialist species using the Sorenson index of similarity and linear regression analysis to explore relationships between time since restoration and the abundance of both  agricultural specialist species. 
+
+Would you willing to run the tests for me? I am sorry to ask such a big favour but I am running out of time to get it done. I am supposed to submit a draft next week. I am out of ideas of what else to try.
